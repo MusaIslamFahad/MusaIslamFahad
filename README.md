@@ -3,9 +3,9 @@
 
 
 ---
-
-### 🔎 About Me
 <img align="right" alt="Coding" width="350" src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8193.jpg?semt=ais_hybrid&w=740" />
+### 🔎 About Me
+
 - 🎓 Final year of B.Sc. in Computer Science and Engineering
 - 👀 Passionate about Data Science, Machine Learning, Cybersecurity, and Software Development
 - 🌱 Currently learning advanced ML techniques and cybersecurity practices  
