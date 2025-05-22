@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Musa Islam Fahad</h1>
 <h3 align="center">💻 Final-Year Computer Science & Engineering Student | 🤖 ML Explorer | 🔐 Cybersecurity Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/programming-background-collage_23-2149901789.jpg" />
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8193.jpg?semt=ais_hybrid&w=740" />
 
 ---
 
