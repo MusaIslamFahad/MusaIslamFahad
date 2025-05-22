@@ -1,10 +1,13 @@
+![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 <h1 align="center">Hi 👋, I'm Md. Musa Islam Fahad</h1>
 <h3 align="center">💻 Final-Year Computer Science & Engineering Student | 🤖 ML Explorer | 🔐 Cybersecurity Enthusiast</h3>
 
 
 ---
-<img align="right" alt="Coding" width="350" src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8193.jpg?semt=ais_hybrid&w=740" />
+
 ### 🔎 About Me
+
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8193.jpg?semt=ais_hybrid&w=740" />
 
 - 🎓 Final year of B.Sc. in Computer Science and Engineering
 - 👀 Passionate about Data Science, Machine Learning, Cybersecurity, and Software Development
