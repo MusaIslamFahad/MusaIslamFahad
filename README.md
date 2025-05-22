@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Md. Musa Islam Fahad</h1>
-<h3 align="center">💻 Final-Year Computer Science & Engineering Student 🤖 ML Explorer | 🔐 Cybersecurity Enthusiast</h3>
-
+<h3 align="center">💻 Final-Year Computer Science & Engineering Student | 🤖 ML Explorer | 🔐 Cybersecurity Enthusiast</h3>
+<img align="right" alt="Coding" width="400" src="(https://www.freepik.com/free-photos-vectors/coding)">
 ---
 
 ### 🔎 About Me
 
-- 🎓 Final year of B.Sc. in *Computer Science and Engineering*
-- 👀 Passionate about *Data Science, **Machine Learning, **Cybersecurity, and **Software Development*
+- 🎓 Final year of B.Sc. in Computer Science and Engineering
+- 👀 Passionate about Data Science, Machine Learning, Cybersecurity, and Software Development
 - 🌱 Currently learning advanced ML techniques and cybersecurity practices  
 - 💻 Skilled in full-stack web development  
 - 🐍 Proficient in Python with experience in Pandas, NumPy, Scikit-learn, TensorFlow, Keras  
@@ -14,8 +14,8 @@
 - 💬 Ask me about anything tech-related—especially Python, security tools, or ML models  
 - 🤝 Open to collaborating on innovative, impactful tech projects  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/md-musa-islam-fahad-b18759249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 😄 Pronouns: *He/Him*  
-- ⚡ *Fun Fact:* I'm passionate about exploring new technologies and thrive on solving complex problems—often spending hours debugging just because I find it genuinely fun!
+- 😄 Pronouns: He/Him  
+- ⚡ Fun Fact: I'm passionate about exploring new technologies and thrive on solving complex problems—often spending hours debugging just because I find it genuinely fun!
 
 ---
 
