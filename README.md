@@ -5,30 +5,30 @@
 
 ---
 
-### 🔎 About Me
+## 🔎 About Me
 
 <!--<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8193.jpg?semt=ais_hybrid&w=740" /> -->
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Funny Cat" align="right" width="250">
 
 
 - 🎓 Final year of B.Sc. in Computer Science and Engineering
-- 👀 Passionate about Data Science, Machine Learning, Cybersecurity, and Software Development
-- 🌱 Currently learning advanced ML techniques and cybersecurity practices  
+- 👀 Passionate about Data Science, Machine Learning, AI, and Software Development
+- 🌱 Currently learning advanced Deep learning and ML techniques  
 - 💻 Skilled in full-stack web development  
-- 🐍 Proficient in Python with experience in Pandas, NumPy, Scikit-learn, TensorFlow, Keras  
+- 🐍 Proficient in Python with experience in Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch 
 - 🛡 Hands-on with Linux, Wireshark, Metasploit, Burp Suite, and Nmap  
-- 💬 Ask me about anything tech-related—especially Python, security tools, or ML models  
+- 💬 Ask me about anything tech-related—especially Python, AI & LLM Tools tools, or ML models  
 - 🤝 Open to collaborating on innovative, impactful tech projects  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/md-musa-islam-fahad-b18759249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun Fact: I'm passionate about exploring new technologies and thrive on solving complex problems—often spending hours debugging just because I find it genuinely fun!
+- ⚡ Fun Fact: I'm passionate about exploring new technologies and thrive on solving complex problems; often spending hours debugging just because I find it genuinely fun!
 
 ---
 
-### 🧰 Tech Stack
+# 🧰 Tech Stack
 <p>
   
-### AI & LLM Tools 
+## AI & LLM Tools 
 <p>
 <img src="https://img.shields.io/badge/Agentic%20AI-0A66C2?style=flat&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/AI%20Ethics-6A0DAD?style=flat&logo=liberapay&logoColor=white" />
@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/RAG-4A90E2?style=flat&logo=openaigym&logoColor=white" />
 </p>
 
-### Databases
+## Databases
 <p>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
@@ -49,7 +49,7 @@
 <img src="https://img.shields.io/badge/Vector%20Database-0A9396?style=flat&logo=databricks&logoColor=white" />
 </p>
 
-### Deep Learning & Machine Learning 
+## Deep Learning & Machine Learning 
 <p>
 <img src="https://img.shields.io/badge/Beautiful%20Soup-000000?style=flat&logo=beautifulsoup&logoColor=white" />
 <img src="https://img.shields.io/badge/Deep%20Learning-005af0?style=flat&logo=ai&logoColor=white" />
@@ -64,7 +64,7 @@
 <img src="https://img.shields.io/badge/Transformers-FFD54F?style=flat&logo=huggingface&logoColor=black" />
 </p>
 
-### Programming Languages 
+## Programming Languages 
 <p>
 <img src="https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
@@ -74,7 +74,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
 
-### Tools & Frameworks 
+## Tools & Frameworks 
 <p>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white" />
@@ -84,7 +84,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
 </P>
 
-### Software Engineering 
+## Software Engineering 
 <p>
 <img src="https://img.shields.io/badge/API%20Development-0A66C2?style=flat&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Software%20Engineering-4285F4?style=flat&logo=google&logoColor=white" />
