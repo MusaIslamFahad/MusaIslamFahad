@@ -13,11 +13,11 @@
 
 - 🎓 Final year of B.Sc. in Computer Science and Engineering
 - 👀 Passionate about Data Science, Machine Learning, AI, and Software Development
-- 🌱 Currently learning advanced Deep learning and ML techniques  
+- 🌱 Currently learning advanced Deep Learning & Machine Learning techniques  
 - 💻 Skilled in full-stack web development  
 - 🐍 Proficient in Python with experience in Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch 
 - 🛡 Hands-on with Linux, Wireshark, Metasploit, Burp Suite, and Nmap  
-- 💬 Ask me about anything tech-related—especially Python, AI & LLM Tools tools, or ML models  
+- 💬 Ask me about anything tech-related especially Python, AI & LLM Tools tools, or DL/ML models  
 - 🤝 Open to collaborating on innovative, impactful tech projects  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/md-musa-islam-fahad-b18759249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 😄 Pronouns: He/Him  
