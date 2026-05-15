@@ -78,6 +78,17 @@ Always curious to learn, build and innovate. ✨
 ## 📊 GitHub Analytics
 
 <div align="center">
+<p>
+  <a href="https://github.com/MusaIslamFahad">
+    <img height="180em"alt="Onimur's github stats" src="https://github-readme-stats-one-lemon-69.vercel.app/api?username=MusaIslamFahad&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent" />
+    <img height="180em"src="https://github-readme-stats-one-lemon-69.vercel.app/api/top-langs/?username=MusaIslamFahad&include_all_commits=true&show_icons=true&hide_border=true&layout=compact&theme=transparent" />
+  </a>
+</p>
+</div>
+
+
+
+<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MusaIslamFahad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=050a0f&title_color=00c8ff&icon_color=00ff9d&text_color=e0eaf5&border_radius=12&include_all_commits=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusaIslamFahad&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00c8ff&text_color=e0eaf5&border_radius=12&langs_count=8"/>
