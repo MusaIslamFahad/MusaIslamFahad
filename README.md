@@ -52,8 +52,7 @@ Always curious to learn, build and innovate. ✨
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-050a0f?style=for-the-badge&logo=python&logoColor=00c8ff" alt="Python"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/C-050a0f?style=for-the-badge&logo=c&logoColor=00c8ff" alt="C"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-050a0f?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/CSS3-050a0f?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-050a0f?style=for-the-badge&logo=django&logoColor=00ff9d" alt="Django"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-050a0f?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-050a0f?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/></a>
 
 </div>
@@ -62,14 +61,49 @@ Always curious to learn, build and innovate. ✨
 
 <div align="center">
 
+<a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-050a0f?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-050a0f?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow"/></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/PyTorch-050a0f?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/OpenCV-050a0f?style=for-the-badge&logo=opencv&logoColor=00c8ff" alt="OpenCV"/></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-050a0f?style=for-the-badge&logo=pandas&logoColor=a78bfa" alt="Pandas"/></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-050a0f?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="scikit-learn"/></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-050a0f?style=for-the-badge&logo=postgresql&logoColor=336791" alt="PostgreSQL"/></a>
+<a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-050a0f?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/></a>
+<a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-050a0f?style=for-the-badge&logo=opencv&logoColor=00c8ff" alt="OpenCV"/></a>
+<a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-050a0f?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Scikit Learn"/></a>
 <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-050a0f?style=for-the-badge&logo=numpy&logoColor=00c8ff" alt="NumPy"/></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-050a0f?style=for-the-badge&logo=pandas&logoColor=a78bfa" alt="Pandas"/></a>
 <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-050a0f?style=for-the-badge&logo=python&logoColor=00ff9d" alt="Matplotlib"/></a>
+
+</div>
+
+### 🧠 LLMs & Generative AI
+
+<div align="center">
+
+<a href="https://openai.com/" target="_blank"><img src="https://img.shields.io/badge/OpenAI_API-050a0f?style=for-the-badge&logo=openai&logoColor=00c8ff" alt="OpenAI API"/></a>
+<a href="https://python.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-050a0f?style=for-the-badge&logoColor=00ff9d" alt="LangChain"/></a>
+<a href="https://www.pinecone.io/" target="_blank"><img src="https://img.shields.io/badge/Pinecone-050a0f?style=for-the-badge&logoColor=a78bfa" alt="Pinecone"/></a>
+<a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/Transformers-050a0f?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Transformers"/></a>
+<a href="https://platform.openai.com/docs" target="_blank"><img src="https://img.shields.io/badge/Prompt_Engineering-050a0f?style=for-the-badge&logoColor=00c8ff" alt="Prompt Engineering"/></a>
+<a href="https://python.langchain.com/docs/concepts/" target="_blank"><img src="https://img.shields.io/badge/RAG_Systems-050a0f?style=for-the-badge&logoColor=00ff9d" alt="RAG Systems"/></a>
+
+</div>
+
+### ⚙️ AI Engineering & MLOps
+
+<div align="center">
+
+<a href="https://www.datacamp.com/" target="_blank"><img src="https://img.shields.io/badge/LLMOps-050a0f?style=for-the-badge&logoColor=a78bfa" alt="LLMOps"/></a>
+<a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/CI/CD-050a0f?style=for-the-badge&logo=githubactions&logoColor=00c8ff" alt="CI/CD"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-050a0f?style=for-the-badge&logo=fastapi&logoColor=00ff9d" alt="FastAPI"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-050a0f?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/></a>
+
+</div>
+
+### 📊 Data & Analytics
+
+<div align="center">
+
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-050a0f?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-050a0f?style=for-the-badge&logo=postgresql&logoColor=336791" alt="PostgreSQL"/></a>
+<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power_BI-050a0f?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI"/></a>
+<a href="https://www.datacamp.com/" target="_blank"><img src="https://img.shields.io/badge/Data_Analysis-050a0f?style=for-the-badge&logoColor=00c8ff" alt="Data Analysis"/></a>
 
 </div>
 
@@ -80,14 +114,14 @@ Always curious to learn, build and innovate. ✨
 <div align="center">
 <p>
   <a href="https://github.com/MusaIslamFahad">
-    <img height="180em"alt="Onimur's github stats" src="https://github-readme-stats-one-lemon-69.vercel.app/api?username=MusaIslamFahad&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent" />
+    <img height="180em"alt="Fahad's github stats" src="https://github-readme-stats-one-lemon-69.vercel.app/api?username=MusaIslamFahad&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent" />
     <img height="180em"src="https://github-readme-stats-one-lemon-69.vercel.app/api/top-langs/?username=MusaIslamFahad&include_all_commits=true&show_icons=true&hide_border=true&layout=compact&theme=transparent" />
   </a>
 </p>
 </div>
 
 
-
+<!--
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MusaIslamFahad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=050a0f&title_color=00c8ff&icon_color=00ff9d&text_color=e0eaf5&border_radius=12&include_all_commits=true"/>
@@ -95,17 +129,26 @@ Always curious to learn, build and innovate. ✨
 
 </div>
 
-<div align="center">
+-->
 
+
+<div align="center">
+  
+<img width="70%" src="https://streak-stats.demolab.com?user=MusaIslamFahad&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent"/>
+
+<!--
 <img width="70%" src="https://streak-stats.demolab.com?user=MusaIslamFahad&theme=tokyonight&hide_border=true&background=050a0f&ring=00c8ff&fire=00ff9d&currStreakLabel=00c8ff&sideLabels=e0eaf5&sideNums=00c8ff&dates=5a7a90&border_radius=12"/>
+-->
 
 </div>
 
-<div align="center">
 
+<div align="center">
+  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MusaIslamFahad&bg_color=050a0f&color=00c8ff&line=00ff9d&point=ffffff&area=true&area_color=00c8ff&hide_border=true&border_radius=12"/>
 
 </div>
+
 
 ---
 <!--
