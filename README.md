@@ -289,6 +289,7 @@ Always curious to learn, build and innovate. ✨
 <br/>
 -->
 
+<!--
 ---
 
 ## 📂 All Repositories
@@ -300,6 +301,8 @@ Always curious to learn, build and innovate. ✨
 </div>
 
 ---
+
+-->
 
 ## 🤝 Connect With Me
 
