@@ -109,6 +109,111 @@ Always curious to learn, build and innovate. ✨
 
 ---
 
+## ⭐ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📰 <a href="https://github.com/MusaIslamFahad/NewsSense-AI">NewsSense AI</a></h3>
+      <p>Full-stack NLP web app which classify headlines, detect sentiment & extract entities in ~2–3s. Live on Vercel.</p>
+      <ul>
+        <li>⚡ 3 transformer models running in parallel</li>
+        <li>🏷️ 10-class zero-shot classification via BART</li>
+        <li>📊 Animated confidence chart + entity highlights</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel"/>
+      </p>
+      <a href="https://newssenseai.vercel.app/">🔴 Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛢️ <a href="https://github.com/MusaIslamFahad/Crude_Oil_Price_Analysis_and_Forecasting-1970-2026-">WTI Oil Price Forecasting</a></h3>
+      <p>56-year oil price analysis with geopolitical event quantification, regime detection & 3-model forecasting.</p>
+      <ul>
+        <li>📈 ARIMA · Prophet · LSTM walk-forward validation</li>
+        <li>🌍 10 geopolitical events quantified with real metrics</li>
+        <li>📊 5-tab Streamlit dashboard deployed live</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+      </p>
+      <a href="https://musaislamfahad-oil-dashboard.streamlit.app">🔴 Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/MusaIslamFahad/Customer_Support_Agent">LangGraph Customer Support Agent</a></h3>
+      <p>Stateful agentic AI which classifies queries, detects sentiment, routes to specialist handlers or escalates to human.</p>
+      <ul>
+        <li>🔀 Directed graph workflow with conditional routing</li>
+        <li>🚨 Auto escalation for negative sentiment queries</li>
+        <li>✅ Fully unit tested with pytest</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/LangGraph-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>😴 <a href="https://github.com/MusaIslamFahad/sleep-disorder-prediction">Sleep Disorder Prediction</a></h3>
+      <p>Predicts Insomnia, Sleep Apnea or None from health & lifestyle data with 97.33% test accuracy.</p>
+      <ul>
+        <li>🏆 LR & SVM tied at 97.33% test accuracy</li>
+        <li>🔍 SHAP explainability across all 3 classes</li>
+        <li>🔁 Stratified 5 fold CV + GridSearchCV tuning</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat-square"/>
+        <img src="https://img.shields.io/badge/SHAP-7F77DD?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌏 <a href="https://github.com/MusaIslamFahad/Global_AI_Travel_Guide">AI Travel Guide</a></h3>
+      <p>GPT-4o-mini desktop app which explore landmarks, restaurants & events for any city with live map markers.</p>
+      <ul>
+        <li>🗺️ Real time geocoding & interactive map markers</li>
+        <li>🖼️ Auto fetched Wikipedia images per result</li>
+        <li>🌗 Light / dark theme, threaded API calls</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/geopy-1D9E75?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>♟️ <a href="https://github.com/MusaIslamFahad/Chess-Ai">Chess AI</a></h3>
+      <p>Fully playable chess with an unbeatable Negamax + Alpha-Beta pruning AI, sound effects & custom themes.</p>
+      <ul>
+        <li>🧠 Negamax + Alpha-Beta pruning engine</li>
+        <li>🏰 Full rules - castling, en passant, promotion</li>
+        <li>👥 Human vs Human / Human vs AI / AI vs AI</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/pygame-00979D?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Negamax_AI-7F77DD?style=flat-square"/>
+        <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -173,17 +278,17 @@ Always curious to learn, build and innovate. ✨
 </div>
 
 -->
-
----
 <!--
+---
+
 ## ⭐ Featured Projects
 
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════════
+ ══════════════════════════════════════════════════════════
      PROJECT 1 — PapersGraph
-═══════════════════════════════════════════════════════════ -->
-<!--
+═══════════════════════════════════════════════════════════ 
+
 <table width="100%">
 <tr>
 <td width="45%" valign="middle" align="center">
@@ -212,7 +317,7 @@ Always curious to learn, build and innovate. ✨
 </table>
 
 <br/>
--->
+
 <!-- ══════════════════════════════════════════════════════════
      PROJECT 2 — AccessAdvisr
 ═══════════════════════════════════════════════════════════ -->
