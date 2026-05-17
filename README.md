@@ -112,6 +112,49 @@ Always curious to learn, build and innovate. ✨
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <a href="https://github.com/MusaIslamFahad">
+    <img
+      style="height: 180px; margin: 0 10px;"
+      alt="Fahad's GitHub Stats"
+      src="https://github-readme-stats-one-lemon-69.vercel.app/api?username=MusaIslamFahad&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent"
+    />
+    <img
+      style="height: 180px; margin: 0 10px;"
+      alt="Fahad's Top Languages"
+      src="https://github-readme-stats-one-lemon-69.vercel.app/api/top-langs/?username=MusaIslamFahad&include_all_commits=true&show_icons=true&hide_border=true&layout=compact&theme=transparent"
+    />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img
+    width="70%"
+    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=MusaIslamFahad&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent"
+  />
+</div>
+
+<br>
+
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MusaIslamFahad&bg_color=050a0f&color=00c8ff&line=00ff9d&point=ffffff&area=true&area_color=00c8ff&hide_border=true&border_radius=12"/>
+
+</div>
+
+
+
+
+
+
+
+
+
+<!--
+
+<div align="center">
 <p>
   <a href="https://github.com/MusaIslamFahad">
     <img height="180em"alt="Fahad's github stats" src="https://github-readme-stats-one-lemon-69.vercel.app/api?username=MusaIslamFahad&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent" />
@@ -121,7 +164,7 @@ Always curious to learn, build and innovate. ✨
 </div>
 
 
-<!--
+
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MusaIslamFahad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=050a0f&title_color=00c8ff&icon_color=00ff9d&text_color=e0eaf5&border_radius=12&include_all_commits=true"/>
@@ -130,25 +173,6 @@ Always curious to learn, build and innovate. ✨
 </div>
 
 -->
-
-
-<div align="center">
-  
-<img width="70%" src="https://streak-stats.demolab.com?user=MusaIslamFahad&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent"/>
-
-<!--
-<img width="70%" src="https://streak-stats.demolab.com?user=MusaIslamFahad&theme=tokyonight&hide_border=true&background=050a0f&ring=00c8ff&fire=00ff9d&currStreakLabel=00c8ff&sideLabels=e0eaf5&sideNums=00c8ff&dates=5a7a90&border_radius=12"/>
--->
-
-</div>
-
-
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MusaIslamFahad&bg_color=050a0f&color=00c8ff&line=00ff9d&point=ffffff&area=true&area_color=00c8ff&hide_border=true&border_radius=12"/>
-
-</div>
-
 
 ---
 <!--
