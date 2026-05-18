@@ -15,6 +15,8 @@
 &nbsp;
 <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank"><img src="https://img.shields.io/badge/🧠_Focus-Artificial_Intelligence-00ff9d?style=for-the-badge&labelColor=0a1f35"/></a>
 &nbsp;
+<a href="https://github.com/MusaIslamFahad?tab=repositories" target="_blank"><img src="https://img.shields.io/github/stars/MusaIslamFahad?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Total%20Stars&color=ffcb47&labelColor=0a1f35"/></a>
+&nbsp;
 <a href="https://www.linkedin.com/in/md-musa-islam-fahad-b18759249" target="_blank"><img src="https://img.shields.io/badge/🤝_Status-Open_to_Collaborate-a78bfa?style=for-the-badge&labelColor=0a1f35"/></a>
 
 </div>
@@ -22,24 +24,35 @@
 ---
 
 ## 🧑‍💻 About Me
-<!--
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
--->
-I enjoy building intelligent systems that solve real-world problems using data and machine learning.
+
+<div align="center"> 
+
+I build **production-ready AI systems** that solve real-world problems
+from LLM-powered agents to end-to-end forecasting pipelines with live deployments.
+
 <br/>
 
-🔹 **Interests:** Artificial Intelligence, Machine Learning, Deep Learning, Data Science
+🔹 **Interests:** LLMs · RAG Systems · NLP · Computer Vision · Time Series Forecasting
 
-🔹 **Skills:** Python, Machine Learning, Streamlit, Data Analysis, LLMs
+🔹 **Focus:** End-to-end ML pipelines · Intelligent agents · Explainable & deployed ML systems
 
-🔹 **Focus:** Building AI-powered tools, end-to-end ML pipelines, forecasting systems and smart data solutions
 <br/>
 
-Currently exploring advanced Deep Learning techniques, LLM applications, RAG systems and real-world machine learning deployments.
+🚀 Currently an **AI Intern @ CodeAlpha**
 
-Always curious to learn, build and innovate. ✨
+🎓 Pursuing **B.Sc. CSE (Major: Data Science) @ Daffodil International University** 🇧🇩
 
-<br clear="right"/>
+💼 **Open to internships, collaborations & AI opportunities**
+
+<br/>
+
+> `🛢️ Built a 56-year WTI Oil Forecasting system` · `📰 NewsSense AI (live on Vercel)` · `🤖 LangGraph Support Agent`
+
+<br/>
+
+Always building. Always shipping. ⚡
+
+</div>
 
 ---
 
