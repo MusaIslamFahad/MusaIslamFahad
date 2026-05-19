@@ -27,8 +27,8 @@
 
 <div align="center"> 
 
-I build **production-ready AI systems** that solve real-world problems
-from LLM-powered agents to end-to-end forecasting pipelines with live deployments.
+**I build **production-ready AI systems** that solve real-world problems
+from LLM-powered agents to end-to-end forecasting pipelines with live deployments.**
 
 <br/>
 
@@ -58,7 +58,7 @@ Always building. Always shipping. ⚡
 
 ## 🧰 Tech Stack
 
-### 💻 Languages & Frameworks
+### `💻 Languages & Frameworks`
 
 <div align="center">
 
@@ -70,7 +70,7 @@ Always building. Always shipping. ⚡
 
 </div>
 
-### 🤖 AI / ML & Data Science
+### `🤖 AI / ML & Data Science`
 
 <div align="center">
 
@@ -85,7 +85,7 @@ Always building. Always shipping. ⚡
 
 </div>
 
-### 🧠 LLMs & Generative AI
+### `🧠 LLMs & Generative AI`
 
 <div align="center">
 
@@ -98,7 +98,7 @@ Always building. Always shipping. ⚡
 
 </div>
 
-### ⚙️ AI Engineering & MLOps
+### `⚙️ AI Engineering & MLOps`
 
 <div align="center">
 
@@ -109,7 +109,7 @@ Always building. Always shipping. ⚡
 
 </div>
 
-### 📊 Data & Analytics
+### `📊 Data & Analytics`
 
 <div align="center">
 
