@@ -33,8 +33,6 @@
 
 <div align="center"> 
 
-<a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Computer+Vision+Builder;Deep+Learning+Explorer;Building+Intelligent+Systems" alt="Typing SVG"/></a>
-
 **I build **production-ready AI systems** that solve real-world problems
 from LLM-powered agents to end-to-end forecasting pipelines with live deployments.**
 
@@ -80,7 +78,7 @@ Always building. Always shipping. ⚡
 
 </div>
 
----
+##
 
 <div align="center">
 
@@ -99,7 +97,7 @@ Always building. Always shipping. ⚡
 
 </div>
 
----
+##
 
 <div align="center">
 
@@ -116,7 +114,7 @@ Always building. Always shipping. ⚡
 
 </div>
 
----
+##
 
 <div align="center">
 
@@ -131,7 +129,7 @@ Always building. Always shipping. ⚡
 
 </div>
 
----
+##
 
 <div align="center">
 
@@ -538,6 +536,7 @@ Always building. Always shipping. ⚡
   </a>
 </div>
 
+<!--
 <br>
 
 <div align="center">
@@ -547,8 +546,6 @@ Always building. Always shipping. ⚡
 </div>
 
 -->
-
-
 
 
 
@@ -745,8 +742,8 @@ Always building. Always shipping. ⚡
 <a href="https://github.com/MusaIslamFahad" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-00c8ff?style=for-the-badge&logo=github&logoColor=white&labelColor=050a0f" alt="GitHub"/></a>
 </div>
 
----
 
+<!--
 <div align="center">
 
 <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+repos!;Lets+build+AI+together!" alt="Typing SVG"/></a>
@@ -754,3 +751,4 @@ Always building. Always shipping. ⚡
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:003d5c,50:0a1f35,100:050a0f&section=footer"/>
 
 </div>
+-->
