@@ -255,6 +255,17 @@ Always building. Always shipping. ⚡
 </div>
 
 <br>
+<div align="center">
+  <a href="https://github.com/MusaIslamFahad">
+    <img
+      style="height: 180px; margin: 0 10px;"
+      alt="Fahad's GitHub Stats"
+      src="https://github-profile-trophy.vercel.app/?username=MusaIslamFahad&theme=aura&no-bg=true&no-frame=true"
+    />
+  </a>
+</div>
+
+<br>
 
 <div align="center">
   
@@ -445,6 +456,11 @@ Always building. Always shipping. ⚡
 ---
 
 -->
+
+
+
+
+---
 
 ## 🤝 Connect With Me
 
