@@ -1,14 +1,20 @@
+<p align="center">
+  <img src="https://commit-craft.wjz-p.workers.dev/api/banner/MusaIslamFahad/commits.svg" alt="Commits Banner" width="22%">
+  <img src="https://commit-craft.wjz-p.workers.dev/api/banner/MusaIslamFahad/stars.svg" alt="Stars Banner" width="22%">
+  <img src="https://commit-craft.wjz-p.workers.dev/api/banner/MusaIslamFahad/prs.svg" alt="PRs Banner" width="22%">
+  <img src="https://commit-craft.wjz-p.workers.dev/api/banner/MusaIslamFahad/repos.svg" alt="Repos Banner" width="22%">
+</p>
+
+<!--
 ![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
+
 <div align="center">
 <!--
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050a0f,40:0a1f35,100:003d5c&text=Tareq%20Aziz%20Uday&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=60&descSize=18&stroke=00c8ff&strokeWidth=1"/>
 -->
-<br/>
 
-<a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Computer+Vision+Builder;Deep+Learning+Explorer;Building+Intelligent+Systems" alt="Typing SVG"/></a>
-
-<br/>
-
+<div align="center">
+  
 <a href="https://github.com/MusaIslamFahad" target="_blank"><img src="https://komarev.com/ghpvc/?username=MusaIslamFahad&label=Profile+Views&color=0a1f35&style=for-the-badge&labelColor=00c8ff"/></a>
 &nbsp;
 <a href="https://www.google.com/maps/place/Bangladesh" target="_blank"><img src="https://img.shields.io/badge/📍_Location-Bangladesh-00c8ff?style=for-the-badge&labelColor=0a1f35"/></a>
@@ -26,6 +32,8 @@
 ## 🧑‍💻 About Me
 
 <div align="center"> 
+
+<a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Computer+Vision+Builder;Deep+Learning+Explorer;Building+Intelligent+Systems" alt="Typing SVG"/></a>
 
 **I build **production-ready AI systems** that solve real-world problems
 from LLM-powered agents to end-to-end forecasting pipelines with live deployments.**
@@ -58,9 +66,11 @@ Always building. Always shipping. ⚡
 
 ## 🧰 Tech Stack
 
+<div align="center">
+  
 ### `💻 Languages & Frameworks`
 
-<div align="center">
+<br/>
 
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-050a0f?style=for-the-badge&logo=python&logoColor=00c8ff" alt="Python"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/C-050a0f?style=for-the-badge&logo=c&logoColor=00c8ff" alt="C"/></a>
@@ -70,9 +80,13 @@ Always building. Always shipping. ⚡
 
 </div>
 
-### `🤖 AI / ML & Data Science`
+---
 
 <div align="center">
+
+### `🤖 AI / ML & Data Science`
+
+<br/>
 
 <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-050a0f?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-050a0f?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow"/></a>
@@ -85,9 +99,13 @@ Always building. Always shipping. ⚡
 
 </div>
 
-### `🧠 LLMs & Generative AI`
+---
 
 <div align="center">
+
+### `🧠 LLMs & Generative AI`
+
+<br/>
 
 <a href="https://openai.com/" target="_blank"><img src="https://img.shields.io/badge/OpenAI_API-050a0f?style=for-the-badge&logo=openai&logoColor=00c8ff" alt="OpenAI API"/></a>
 <a href="https://python.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-050a0f?style=for-the-badge&logoColor=00ff9d" alt="LangChain"/></a>
@@ -98,9 +116,13 @@ Always building. Always shipping. ⚡
 
 </div>
 
-### `⚙️ AI Engineering & MLOps`
+---
 
 <div align="center">
+
+### `⚙️ AI Engineering & MLOps`
+
+<br/>
 
 <a href="https://www.datacamp.com/" target="_blank"><img src="https://img.shields.io/badge/LLMOps-050a0f?style=for-the-badge&logoColor=a78bfa" alt="LLMOps"/></a>
 <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/CI/CD-050a0f?style=for-the-badge&logo=githubactions&logoColor=00c8ff" alt="CI/CD"/></a>
@@ -109,9 +131,13 @@ Always building. Always shipping. ⚡
 
 </div>
 
-### `📊 Data & Analytics`
+---
 
 <div align="center">
+
+### `📊 Data & Analytics`
+
+<br/>
 
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-050a0f?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-050a0f?style=for-the-badge&logo=postgresql&logoColor=336791" alt="PostgreSQL"/></a>
@@ -123,6 +149,234 @@ Always building. Always shipping. ⚡
 ---
 
 ## ⭐ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📰 NewsSense AI</h3>
+      <p align="center">
+        <a href="https://github.com/MusaIslamFahad/NewsSense-AI">
+          <img src="https://commit-craft.wjz-p.workers.dev/api/repo/MusaIslamFahad/NewsSense-AI.svg" alt="NewsSense AI" width="90%">
+        </a>
+      </p>
+      <p>Full-stack NLP web app which classify headlines, detect sentiment & extract entities in ~2–3s. Live on Vercel.</p>
+      <ul>
+        <li>⚡ 3 transformer models running in parallel</li>
+        <li>🏷️ 10-class zero-shot classification via BART</li>
+        <li>📊 Animated confidence chart + entity highlights</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel"/>
+      </p>
+      <p><a href="https://newssenseai.vercel.app/">🔴 Live Demo</a></p>
+    </td>  
+    <td width="50%" valign="top">
+      <h3>🛢️ WTI Oil Price Forecasting</h3>
+      <p align="center">
+        <a href="https://github.com/MusaIslamFahad/Crude_Oil_Price_Analysis_and_Forecasting-1970-2026-">
+          <img src="https://commit-craft.wjz-p.workers.dev/api/repo/MusaIslamFahad/Crude_Oil_Price_Analysis_and_Forecasting-1970-2026-.svg" alt="WTI Oil Price Forecasting" width="90%">
+        </a>
+      </p>
+      <p>56-year oil price analysis with geopolitical event quantification, regime detection & 3-model forecasting.</p>
+      <ul>
+        <li>📈 ARIMA · Prophet · LSTM walk-forward validation</li>
+        <li>🌍 10 geopolitical events quantified with real metrics</li>
+        <li>📊 5-tab Streamlit dashboard deployed live</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+      </p>
+      <p><a href="https://musaislamfahad-oil-dashboard.streamlit.app">🔴 Live Demo</a></p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 LangGraph Customer Support Agent</h3>
+      <p align="center">
+        <a href="https://github.com/MusaIslamFahad/Customer_Support_Agent">
+          <img src="https://commit-craft.wjz-p.workers.dev/api/repo/MusaIslamFahad/Customer_Support_Agent.svg" alt="LangGraph Customer Support Agent" width="90%">
+        </a>
+      </p>
+      <p>Stateful agentic AI which classifies queries, detects sentiment, routes to specialist handlers or escalates to human.</p>
+      <ul>
+        <li>🔀 Directed graph workflow with conditional routing</li>
+        <li>🚨 Auto escalation for negative sentiment queries</li>
+        <li>✅ Fully unit tested with pytest</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/LangGraph-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>😴 Sleep Disorder Prediction</h3>
+      <p align="center">
+        <a href="https://github.com/MusaIslamFahad/sleep-disorder-prediction">
+          <img src="https://commit-craft.wjz-p.workers.dev/api/repo/MusaIslamFahad/sleep-disorder-prediction.svg" alt="Sleep Disorder Prediction" width="90%">
+        </a>
+      </p>
+      <p>Predicts Insomnia, Sleep Apnea or None from health & lifestyle data with 97.33% test accuracy.</p>
+      <ul>
+        <li>🏆 LR & SVM tied at 97.33% test accuracy</li>
+        <li>🔍 SHAP explainability across all 3 classes</li>
+        <li>🔁 Stratified 5 fold CV + GridSearchCV tuning</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat-square"/>
+        <img src="https://img.shields.io/badge/SHAP-7F77DD?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌏 AI Travel Guide</h3>
+      <p align="center">
+        <a href="https://github.com/MusaIslamFahad/Global_AI_Travel_Guide">
+          <img src="https://commit-craft.wjz-p.workers.dev/api/repo/MusaIslamFahad/Global_AI_Travel_Guide.svg" alt="AI Travel Guide" width="90%">
+        </a>
+      </p>
+      <p>GPT-4o-mini desktop app which explore landmarks, restaurants & events for any city with live map markers.</p>
+      <ul>
+        <li>🗺️ Real time geocoding & interactive map markers</li>
+        <li>🖼️ Auto fetched Wikipedia images per result</li>
+        <li>🌗 Light / dark theme, threaded API calls</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/geopy-1D9E75?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>♟️ Chess AI</h3>
+      <p align="center">
+        <a href="https://github.com/MusaIslamFahad/Chess-Ai">
+          <img src="https://commit-craft.wjz-p.workers.dev/api/repo/MusaIslamFahad/Chess-Ai.svg" alt="Chess AI" width="90%">
+        </a>
+      </p>
+      <p>Fully playable chess with an unbeatable Negamax + Alpha-Beta pruning AI, sound effects & custom themes.</p>
+      <ul>
+        <li>🧠 Negamax + Alpha-Beta pruning engine</li>
+        <li>🏰 Full rules - castling, en passant, promotion</li>
+        <li>👥 Human vs Human / Human vs AI / AI vs AI</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/pygame-00979D?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Negamax_AI-7F77DD?style=flat-square"/>
+        <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+---
+
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>📰 NewsSense AI</h3>
+      <p align="center">
+        <a href="https://github.com/MusaIslamFahad/NewsSense-AI">
+          <img src="https://commit-craft.wjz-p.workers.dev/api/repo/MusaIslamFahad/NewsSense-AI.svg" alt="NewsSense AI" width="90%">
+        </a>
+      </p>
+      <p><a href="https://newssenseai.vercel.app/">🔴 Live Demo</a></p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🛢️ WTI Oil Price Forecasting</h3>
+      <p align="center">
+        <a href="https://github.com/MusaIslamFahad/Crude_Oil_Price_Analysis_and_Forecasting-1970-2026-">
+          <img src="https://commit-craft.wjz-p.workers.dev/api/repo/MusaIslamFahad/Crude_Oil_Price_Analysis_and_Forecasting-1970-2026-.svg" alt="WTI Oil Price Forecasting" width="90%">
+        </a>
+      </p>
+      <p><a href="https://musaislamfahad-oil-dashboard.streamlit.app">🔴 Live Demo</a></p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🤖 LangGraph Customer Support Agent</h3>
+      <p align="center">
+        <a href="https://github.com/MusaIslamFahad/Customer_Support_Agent">
+          <img src="https://commit-craft.wjz-p.workers.dev/api/repo/MusaIslamFahad/Customer_Support_Agent.svg" alt="Customer Support Agent" width="90%">
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>😴 Sleep Disorder Prediction</h3>
+      <p align="center">
+        <a href="https://github.com/MusaIslamFahad/sleep-disorder-prediction">
+          <img src="https://commit-craft.wjz-p.workers.dev/api/repo/MusaIslamFahad/sleep-disorder-prediction.svg" alt="Sleep Disorder Prediction" width="90%">
+        </a>
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🌏 AI Travel Guide</h3>
+      <p align="center">
+        <a href="https://github.com/MusaIslamFahad/Global_AI_Travel_Guide">
+          <img src="https://commit-craft.wjz-p.workers.dev/api/repo/MusaIslamFahad/Global_AI_Travel_Guide.svg" alt="AI Travel Guide" width="90%">
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>♟️ Chess AI</h3>
+      <p align="center">
+        <a href="https://github.com/MusaIslamFahad/Chess-Ai">
+          <img src="https://commit-craft.wjz-p.workers.dev/api/repo/MusaIslamFahad/Chess-Ai.svg" alt="Chess AI" width="90%">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+---
 
 <table>
   <tr>
@@ -225,6 +479,25 @@ Always building. Always shipping. ⚡
   </tr>
 </table>
 
+
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## 📊 GitHub Analytics
@@ -273,7 +546,7 @@ Always building. Always shipping. ⚡
 
 </div>
 
-
+-->
 
 
 
