@@ -33,16 +33,11 @@
 
 <div align="center"> 
 
-**I build **production-ready AI systems** that solve real-world problems
-from LLM-powered agents to end-to-end forecasting pipelines with live deployments.**
+### I build **production-ready AI systems** that solve real-world problems from LLM-powered agents to end-to-end forecasting pipelines with live deployments.
 
-<br/>
+`🔹Interests` : `LLMs` · `RAG Systems` · `NLP` · `Computer Vision` · `Time Series Forecasting`
 
-🔹 **Interests:** LLMs · RAG Systems · NLP · Computer Vision · Time Series Forecasting
-
-🔹 **Focus:** End-to-end ML pipelines · Intelligent agents · Explainable & deployed ML systems
-
-<br/>
+`🔹Focus` : `End-to-end ML pipelines` · `Intelligent agents` · `Explainable & deployed ML systems`
 
 🚀 Currently an **AI Intern @ CodeAlpha**
 
@@ -50,13 +45,7 @@ from LLM-powered agents to end-to-end forecasting pipelines with live deployment
 
 💼 **Open to internships, collaborations & AI opportunities**
 
-<br/>
-
-> `🛢️ Built a 56-year WTI Oil Forecasting system` · `📰 NewsSense AI (live on Vercel)` · `🤖 LangGraph Support Agent`
-
-<br/>
-
-Always building. Always shipping. ⚡
+### Always building. Always shipping. ⚡
 
 </div>
 
