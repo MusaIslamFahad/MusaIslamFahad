@@ -171,6 +171,7 @@
   <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker"/></a>
+  <a href="https://deeptrace-image.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-0d1117?style=for-the-badge&labelColor=000&logo=vercel&logoColor=white" alt="Live Demo"/></a>
   <a href="https://github.com/MusaIslamFahad/deeptrace" target="_blank"><img src="https://img.shields.io/badge/→_Repository-0d1117?style=for-the-badge&labelColor=181717&logo=github&logoColor=white" alt="Repository"/></a>
 </td>
 </tr>
