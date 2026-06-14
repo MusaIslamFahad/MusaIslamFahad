@@ -36,7 +36,7 @@
 
 **I build **production-ready AI systems** that solve real-world problems from LLM-powered agents to end-to-end forecasting pipelines with live deployments.**
 
-🚀 Currently an **AI Intern @ CodeAlpha**  | 🎓 Pursuing **B.Sc. CSE (Major: Data Science) @ Daffodil International University** 🇧🇩  |  
+🚀 Currently an **AI Intern @ FlyRank AI**  | 🎓 Pursuing **B.Sc. CSE (Major: Data Science) @ Daffodil International University** 🇧🇩  |  
 💼 **Open to internships, collaborations & AI opportunities**
 
 `🔹Interests` : `LLMs` · `RAG Systems` · `NLP` · `Computer Vision` · `Time Series Forecasting`
@@ -44,7 +44,7 @@
 `🔹Focus` : `End-to-end ML pipelines` · `Intelligent agents` · `Explainable & deployed ML systems`
 
 <!--
-🚀 Currently an **AI Intern @ CodeAlpha**
+🚀 Currently an **AI Intern @ FlyRank AI**
 
 🎓 Pursuing **B.Sc. CSE (Major: Data Science) @ Daffodil International University** 🇧🇩
 
