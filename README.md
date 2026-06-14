@@ -336,12 +336,8 @@
     <td valign="top" width="33%">
       <h3><a href="https://github.com/MusaIslamFahad/road-to-ai-engineer">Road to AI Engineer</a></h3>
       <strong>Generalist AI Engineer Roadmap</strong><br><br>
-      <a href="https://github.com/MusaIslamFahad/road-to-ai-engineer">
-        <img src="https://img.shields.io/github/stars/MusaIslamFahad/road-to-ai-engineer?style=social" alt="Stars">
-      </a>
-      <a href="https://github.com/MusaIslamFahad/road-to-ai-engineer">
-        <img src="https://img.shields.io/github/forks/MusaIslamFahad/road-to-ai-engineer?style=social" alt="Forks">
-      </a>
+      <a href="https://github.com/MusaIslamFahad/road-to-ai-engineer"><img src="https://img.shields.io/github/stars/MusaIslamFahad/road-to-ai-engineer?style=social" alt="Stars"></a>
+      <a href="https://github.com/MusaIslamFahad/road-to-ai-engineer"><img src="https://img.shields.io/github/forks/MusaIslamFahad/road-to-ai-engineer?style=social" alt="Forks"></a>
       <br><br>
       23+ projects • Full-stack AI mastery<br><br>
       <a href="https://github.com/MusaIslamFahad/road-to-ai-engineer">→ Explore Roadmap</a>
@@ -350,12 +346,8 @@
     <td valign="top" width="33%">
       <h3><a href="https://github.com/MusaIslamFahad/python-for-ai-engineers">Python for AI Engineers</a></h3>
       <strong>80+ Interactive Notebooks</strong><br><br>
-      <a href="https://github.com/MusaIslamFahad/python-for-ai-engineers">
-        <img src="https://img.shields.io/github/stars/MusaIslamFahad/python-for-ai-engineers?style=social" alt="Stars">
-      </a>
-      <a href="https://github.com/MusaIslamFahad/python-for-ai-engineers">
-        <img src="https://img.shields.io/github/forks/MusaIslamFahad/python-for-ai-engineers?style=social" alt="Forks">
-      </a>
+      <a href="https://github.com/MusaIslamFahad/python-for-ai-engineers"><img src="https://img.shields.io/github/stars/MusaIslamFahad/python-for-ai-engineers?style=social" alt="Stars"></a>
+      <a href="https://github.com/MusaIslamFahad/python-for-ai-engineers"><img src="https://img.shields.io/github/forks/MusaIslamFahad/python-for-ai-engineers?style=social" alt="Forks"></a>
       <br><br>
       Tailored Python curriculum for AI/ML Engineers<br><br>
       <a href="https://github.com/MusaIslamFahad/python-for-ai-engineers">→ Start Learning</a>
@@ -364,12 +356,8 @@
     <td valign="top" width="33%">
       <h3><a href="https://github.com/MusaIslamFahad/ai-integration-hub">AI Integration Hub</a></h3>
       <strong>AI APIs • Templates • Best Practices</strong><br><br>
-      <a href="https://github.com/MusaIslamFahad/ai-integration-hub">
-        <img src="https://img.shields.io/github/stars/MusaIslamFahad/ai-integration-hub?style=social" alt="Stars">
-      </a>
-      <a href="https://github.com/MusaIslamFahad/ai-integration-hub">
-        <img src="https://img.shields.io/github/forks/MusaIslamFahad/ai-integration-hub?style=social" alt="Forks">
-      </a>
+      <a href="https://github.com/MusaIslamFahad/ai-integration-hub"><img src="https://img.shields.io/github/stars/MusaIslamFahad/ai-integration-hub?style=social" alt="Stars"></a>
+      <a href="https://github.com/MusaIslamFahad/ai-integration-hub"><img src="https://img.shields.io/github/forks/MusaIslamFahad/ai-integration-hub?style=social" alt="Forks"></a>
       <br><br>
       Production-ready AI integration resources<br><br>
       <a href="https://github.com/MusaIslamFahad/ai-integration-hub">→ Visit Hub</a>
@@ -377,11 +365,11 @@
   </tr>
 </table>
 
-</div>
-
 ---
 
 **All resources are free and open source.** Feel free to star ⭐, fork, and contribute!
+
+</div>
 
 ---
 
