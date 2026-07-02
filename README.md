@@ -18,13 +18,14 @@
   
 <a href="https://github.com/MusaIslamFahad" target="_blank"><img src="https://komarev.com/ghpvc/?username=MusaIslamFahad&label=Profile+Views&color=0a1f35&style=for-the-badge&labelColor=00c8ff"/></a>
 &nbsp;
-<a href="https://www.google.com/maps/place/Bangladesh" target="_blank"><img src="https://img.shields.io/badge/📍_Location-Bangladesh-00ff9d?style=for-the-badge&labelColor=0a1f35"/></a>
+<a href="https://www.google.com/maps/place/Bangladesh" target="_blank"><img src="https://img.shields.io/badge/📍_Location-Bangladesh-ffffff?style=for-the-badge&labelColor=0a1f35"/></a>
 &nbsp;
-<a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank"><img src="https://img.shields.io/badge/🧠_Focus-Artificial_Intelligence-00c8ff?style=for-the-badge&labelColor=0a1f35"/></a>
+<a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank"><img src="https://img.shields.io/badge/🧠_Focus-Artificial_Intelligence-ffffff?style=for-the-badge&labelColor=0a1f35"/></a>
 &nbsp;
-<a href="https://github.com/MusaIslamFahad?tab=repositories" target="_blank"><img src="https://img.shields.io/github/stars/MusaIslamFahad?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Total%20Stars&color=ffcb47&labelColor=0a1f35"/></a>
+<a href="https://github.com/MusaIslamFahad?tab=repositories" target="_blank"><img src="https://img.shields.io/github/stars/MusaIslamFahad?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Total%20Stars&color=ffffff&labelColor=0a1f35"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/md-musa-islam-fahad-b18759249" target="_blank"><img src="https://img.shields.io/badge/🤝_Status-Open_to_Collaborate-a78bfa?style=for-the-badge&labelColor=0a1f35"/></a>
+<a href="https://www.linkedin.com/in/md-musa-islam-fahad-b18759249" target="_blank"><img src="https://img.shields.io/badge/🤝_Status-Open_to_Collaborate-ffffff?style=for-the-badge&labelColor=0a1f35"/></a>
+
 
 </div>
 
