@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/MusaIslamFahad/MusaIslamFahad/main/assets/fahad-header-banner.svg" alt="Md. Musa Islam Fahad — AI Engineer @ FlyRank AI" width="880"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MusaIslamFahad/MusaIslamFahad/main/assets/fahad-typing-strip.svg" alt="now" width="880"/>
+  <img src="https://raw.githubusercontent.com/MusaIslamFahad/MusaIslamFahad/main/assets/fahad-typing-strip.svg" alt="now" width="700"/>
 </p>
 
   
