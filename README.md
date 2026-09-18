@@ -1,5 +1,11 @@
-![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MusaIslamFahad/MusaIslamFahad/main/assets/fahad-header-banner.svg" alt="Md. Musa Islam Fahad — AI Engineer @ FlyRank AI" width="880"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MusaIslamFahad/MusaIslamFahad/main/assets/fahad-typing-strip.svg" alt="now" width="880"/>
+</p>
 
+  
 <!--
 <p align="center">
   <img src="https://commit-craft.wjz-p.workers.dev/api/banner/MusaIslamFahad/commits.svg" alt="Commits Banner" width="22%">
